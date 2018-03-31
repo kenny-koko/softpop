@@ -1,0 +1,234 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}MyLogoArt20180330075923.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#9365b8",
+            "overlayOpacity": 0.5
+          },
+          "center": true,
+          "title": "It's so easy",
+          "text": "Quality pizza you can count on wherever you want it.😋",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"https://pizzariva.kickshops.com\">ORDER PIZZA</a>",
+          "_name": "header1",
+          "_anchor": "header1-4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true
+          },
+          "items": "<ul class=\"nav nav-pills pull-right\"><li><a href=\"index.html\" data-app-btn=\"true\" class=\"\">HOME</a></li><li><a href=\"page2.html\" data-app-btn=\"true\" class=\"\">ABOUT US</a></li><li><a href=\"page1.html\" data-app-btn=\"true\" class=\"\">ORDER FOOD</a></li></ul>",
+          "logo": "{PROJECT_IMAGES}coollogo_com-11601478.png",
+          "brand": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"\">PizzAriva</a>",
+          "_name": "menu",
+          "_anchor": "menu-5",
+          "_styles": {
+            ".brand > span > a": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            "A": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}images.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "img1": "{PROJECT_IMAGES}appetizing-baking-business-lunch-315762.jpg",
+          "img2": "{PROJECT_IMAGES}big-nick-burger-672x372.jpg",
+          "img3": "{PROJECT_IMAGES}vector-delivery-logo.jpg",
+          "img4": "{PROJECT_IMAGES}stock-vector-vector-collection-of-pizza-emblems-badges-elements-and-icons-pizzeria-cafe-restaurant-or-637119346.jpg",
+          "title1": "what's this?...",
+          "caption1": "Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven. It can also be topped with additional vegetables, meats, and condiments, and can be made without cheese.",
+          "title2": "",
+          "caption2": "Pizza can be enjoyed with side meals, check out our menu and treat yourself.",
+          "title3": "",
+          "caption3": "You choose where you want your pizza to be delivered.",
+          "title4": "&nbsp;",
+          "caption4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://en.m.wikipedia.org/wiki/Pizza\" class=\"btn btn-default\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.google.com.ng/url?q=http://www.pizzaplanet.com/popular-side-dishes-go-next-pizza/&amp;sa=U&amp;ved=2ahUKEwiv7JTwlZTaAhUJUlAKHRBBAowQFjANegQIBBAB&amp;usg=AOvVaw2KLA24MP_Nbxsib61JaWlp\" class=\"btn btn-default\">LEARN MORE</a>",
+          "button3": "",
+          "button4": "",
+          "_name": "features1",
+          "_anchor": "features1-3"
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "logo": "{PROJECT_IMAGES}images.jpg",
+          "text1": "",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kennykoko11@gmail.com<br>\nPhone: +2347087519323<br>\nFax: +2349075800237",
+          "text3": "\n                        <p class=\"mbr-contacts__text\"><br></p>\n                    ",
+          "_name": "contacts1",
+          "_anchor": "contacts1-3"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}images.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#27aae0",
+            "overlayOpacity": "0.3"
+          },
+          "center": false,
+          "title": "ORDER-UP!",
+          "text": "You will be redirected to our online store to place your orders and check out.",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://pizzariva.kickshops.com\" class=\"btn btn-info btn-lg\">ORDER NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"index.html\">HOME</a>",
+          "_name": "header2",
+          "_anchor": "header2-7"
+        },
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "logo": "{PROJECT_IMAGES}images.jpg",
+          "text1": "",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: kennykoko11@gmail.com<br>\nPhone: +2347087519323<br>Whatsapp: +2349075800237",
+          "text3": "\n                        <p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"></ul>\n                    ",
+          "_name": "contacts1",
+          "_anchor": "contacts1-8"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {},
+      "components": [
+        {
+          "_params": {
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "\n                    Copyright (с) 2015 PizzAriva. <a class=\"mbr-footer__link\" href=\"http://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link\" href=\"http://mobirise.com/\">Privacy Policy</a>\n                ",
+          "_name": "footer1",
+          "_anchor": "footer1-9"
+        },
+        {
+          "_styles": {
+            "h2": {
+              "color": "#fff"
+            },
+            "p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "bgImageRadio": false,
+            "bgImage": "{PROJECT_IMAGES}bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABOUT US",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\">HOME</a>",
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-11"
+        },
+        {
+          "_styles": {},
+          "_params": {},
+          "text": "Pizza often considered a delicacy, could become more popular and \"PizzAriva\" a phenomenom in a thriving community with your mobile device.<p></p>",
+          "_name": "content1",
+          "_anchor": "content1-10"
+        }
+      ]
+    }
+  }
+}
